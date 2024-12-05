@@ -1,0 +1,18 @@
+/* Center the Step 1 content */
+.step-container {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       background-color: #f9f9f9; /* Optional background color */
+       padding: 20px;
+   }
+   
+   .step-content {
+       max-width: 350px; /* Optional max-width for content */
+       text-align: center; /* Optional, if you want the text centered */
+       background-color: #fff; /* Optional background for the card */
+       padding: 30px;
+       border-radius: 10px;
+       box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+   }
+   
