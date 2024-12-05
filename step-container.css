@@ -3,14 +3,14 @@
        display: flex;
        justify-content: center;
        align-items: center;
-       background-color: #f9f9f9; /* Optional background color */
+       margin-bottom: 50px;
        padding: 20px;
    }
    
-   .step-content {
-       max-width: 350px; /* Optional max-width for content */
-       text-align: center; /* Optional, if you want the text centered */
-       background-color: #fff; /* Optional background for the card */
+.step-content {
+       max-width: 350px;
+       text-align: center;
+       background-color: #fff;
        padding: 30px;
        border-radius: 10px;
        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
